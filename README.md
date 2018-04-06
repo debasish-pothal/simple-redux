@@ -1,0 +1,1 @@
+this is a boilerplate application with react-redux
